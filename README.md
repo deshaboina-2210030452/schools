@@ -1,2 +1,0 @@
-# schools
-Educase India assignment
